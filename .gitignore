@@ -1,0 +1,13 @@
+# for os
+Thumbs.db
+.DS_Store
+*.swp
+
+Library
+Temp
+*.csproj
+*.sln
+*.userprefs
+obj
+_Temp
+

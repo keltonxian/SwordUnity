@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2384615151
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: salon_ui.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: salon_screenshot.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: salon_kelton_dye.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: salon_tony_dye.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: salon_kobe_dye.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: salon_kelton.unity3d
+      Dependencies:
+        Dependency_0: salon_ui.unity3d
+        Dependency_1: salon_beard_face.unity3d
+    Info_6:
+      Name: salon_kobe.unity3d
+      Dependencies:
+        Dependency_0: salon_ui.unity3d
+        Dependency_1: salon_beard_face.unity3d
+    Info_7:
+      Name: salon_tony.unity3d
+      Dependencies:
+        Dependency_0: salon_ui.unity3d
+        Dependency_1: salon_beard_face.unity3d
+    Info_8:
+      Name: salon_beard_face.unity3d
+      Dependencies: {}
